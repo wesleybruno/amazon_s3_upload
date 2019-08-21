@@ -12,7 +12,7 @@ Update your AWS accessKeyId, secretAccessKey and Bucket name in `./config.js`
 
 ## Installation Instructions :wrench:
 
-1. Clone this repo using `git clone https://github.com/imranhsayed/file-uploads-aws-react-node`
+1. Clone this repo using `git clone https://github.com/wesleybruno/amazon_s3_upload.git`
 2. `cd file-uploads-aws-react-node`
 3. `npm install`
 
@@ -34,5 +34,5 @@ Update your AWS accessKeyId, secretAccessKey and Bucket name in `./config.js`
 
 ## Base Project :link:
 
- * [Git Repo Base](https://github.com/imranhsayed/file-uploads-aws-react-node`)
+ * [Git Repo Base](https://github.com/imranhsayed/file-uploads-aws-react-node)
 
